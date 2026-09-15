@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+}
+
+li{
+    margin:25px;
+}
+
+h1{
+    color: rgb(62, 80, 180);
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
